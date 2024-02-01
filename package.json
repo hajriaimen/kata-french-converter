@@ -1,6 +1,6 @@
 {
   "name": "kata-french-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Kata french numbers convertor module.",
   "main": "dist/index.js",
   "scripts": {
