@@ -1,4 +1,4 @@
-import numberToFrench from "../numberToFrench";
+import numberToFrench from "../src/numberToFrench";
 
 describe('numberToFrench', () => {
     it('should return "quatre-vingt-onze" when given 91', () => {
