@@ -1,6 +1,6 @@
 {
   "name": "kata-french-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Kata french numbers convertor module.",
   "main": "dist/index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "files": [
     "dist"
   ],
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hajriaimen/kata-french-converter.git"
